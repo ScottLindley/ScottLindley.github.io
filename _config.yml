@@ -2,7 +2,7 @@
 title: Scott Lindley
 email: scottdlindley@gmail.com
 url: https://ScottLindley.github.io
-description: "Description"
+description: "Scott Lindley android development portfolio"
 skills: "Android Developer"
 meta_author: Lindley Scott
 
@@ -31,7 +31,6 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
   location: Location
   social: Around the Web
   credits: Credits

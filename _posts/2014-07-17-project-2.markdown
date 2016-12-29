@@ -1,12 +1,10 @@
 ---
+title: Bundle
 layout: default
 modal-id: 2
 date: 2016-11-19
-img: Bundle
+img: Bundle.png
 alt: image-alt
-project-date: November 2016
-client: General Assembly
-category: Android Development
 description: A news and twitter app that handles multiple REST API calls.
 ---
 <div class="center-links">

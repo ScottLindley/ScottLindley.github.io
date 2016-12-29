@@ -5,9 +5,6 @@ modal-id: 1
 date: 2016-12-28
 img: Sudoku
 alt: Su you think you can Doku
-project-date: December 2016
-client: General Assembly
-category: Android Development
 description: A sudoku app that features a multiplayer race mode. This app is heavy on logic but also implements Google Play Games Services.
 ---
 <div class="center-links">

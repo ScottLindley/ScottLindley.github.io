@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-date: 2016-10
+date: 2016-10-22
 img: agriCulture
 alt: image-alt
 project-date: October 2014

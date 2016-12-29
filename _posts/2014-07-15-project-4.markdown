@@ -1,9 +1,10 @@
 ---
+title: Much To Do Without To Do
 layout: default
 modal-id: 4
 date: 2016-10-15
-img: ToDo
-alt: image-alt
+img: ToDo.png
+alt: Much To Do Without To Do
 project-date: April 2014
 client: General Assembly
 category: Android Development

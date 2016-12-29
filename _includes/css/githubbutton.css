@@ -3,3 +3,9 @@
     border: solid 2px #{{ site.color.secondary }};
     width: 200px;
 }
+
+.center-links {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}

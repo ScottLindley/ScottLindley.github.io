@@ -5,12 +5,5 @@ modal-id: 3
 date: 2016-10-22
 img: agriCulture.png
 alt: agriCulture
-description: Mobile commerce app with a multi-table database. Java and XML, and SQLite were critical to deliver a woven user experience.
-
+description: Mobile commerce app with a multi-table database. Java and XML, and SQLite were critical to deliver a woven user experience.<br>Find the repo <a href="https://github.com/ScottLindley/agriCulture">here</a>.
 ---
-<div class="center-links">
-    <a class="btn btn-md btn-outline github-project-link" href="https://github.com/ScottLindley/agriCulture" target="_blank">
-        <i class="fa fa-github"></i>
-        <span class="small">View on GitHub</span>
-    </a>
-</div>

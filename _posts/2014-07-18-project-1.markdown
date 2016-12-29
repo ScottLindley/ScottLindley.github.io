@@ -9,7 +9,7 @@ description: A sudoku app that features a multiplayer race mode. This app is hea
 ---
 <div class="center-links">
     <a class="btn btn-md btn-outline github-project-link" href="https://github.com/ScottLindley/Su-you-think-you-can-Doku" target="_blank">
-        <i class="fa fa-github"></i>
+        <i class="fa fa-github:before"></i>
         <span class="small">View on GitHub</span>
     </a>
 </div>

@@ -7,5 +7,11 @@ alt: image-alt
 project-date: December 2016
 client: General Assembly
 category: Android Development
-description: A sudoku app that features a multiplayer race mode. This app is heavy on logic but also implements Google Play Games Services. Find the repo <a href="https://github.com/ScottLindley/Su-you-think-you-can-Doku">here</a>.
+description: A sudoku app that features a multiplayer race mode. This app is heavy on logic but also implements Google Play Games Services.
 ---
+<div class="center-links">
+    <a class="btn btn-md btn-outline github-project-link" href="https://github.com/ScottLindley/Su-you-think-you-can-Doku" target="_blank">
+        <i class="fa fa-github"></i>
+        <span class="small">View on GitHub</span>
+    </a>
+</div>

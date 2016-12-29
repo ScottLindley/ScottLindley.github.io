@@ -5,9 +5,6 @@ modal-id: 4
 date: 2016-10-15
 img: ToDo.png
 alt: Much To Do Without To Do
-project-date: April 2014
-client: General Assembly
-category: Android Development
 description: Created an Android app using Java, SQLite, and XML to store tasks that allow a user to keep their minds more organized.
 ---
 <div class="center-links">

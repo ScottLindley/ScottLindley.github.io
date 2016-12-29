@@ -7,6 +7,12 @@ alt: image-alt
 project-date: October 2014
 client: General Assebmly
 category: Android Development
-description: Mobile commerce app with a multi-table database. Java and XML, and SQLite were critical to deliver a woven user experience. Find the repo <a href="https://github.com/ScottLindley/agriCulture">here</a>.
+description: Mobile commerce app with a multi-table database. Java and XML, and SQLite were critical to deliver a woven user experience.
 
 ---
+<div class="center-links">
+    <a class="btn btn-md btn-outline github-project-link" href="https://github.com/ScottLindley/agriCulture" target="_blank">
+        <i class="fa fa-github"></i>
+        <span class="small">View on GitHub</span>
+    </a>
+</div>

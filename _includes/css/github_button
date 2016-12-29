@@ -1,0 +1,5 @@
+.github-project-link {
+    background-color: #444444;
+    border: solid 2px #{{ site.color.secondary }};
+    width: 200px;
+}

@@ -7,7 +7,7 @@ img: ToDo.png
 alt: Much To Do Without To Do
 description: Created an Android app using Java, SQLite, and XML to store tasks that allow a user to keep their minds more organized.
 ---
-<div>
+<div class ="center-links">
     <a class="btn btn-md btn-outline github-project-link" href="https://github.com/ScottLindley/To-Do-List-app" target="_blank">
         <i class="fa fa-github"></i>
         <span class="small">View on GitHub</span>

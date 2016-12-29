@@ -5,7 +5,7 @@ date: 2016-11
 img: Bundle
 alt: image-alt
 project-date: November 2016
-client: Start Bootstrap
-category: Web Development
+client: General Assembly
+category: Android Development
 description: A news and twitter app that handles multiple REST API calls. Find the repo <a href="https://github.com/ScottLindley/Bundle">here</a>.
 ---

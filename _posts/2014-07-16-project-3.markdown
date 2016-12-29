@@ -4,7 +4,7 @@ layout: default
 modal-id: 3
 date: 2016-10-22
 img: agriCulture.png
-alt: image-alt
+alt: agriCulture
 description: Mobile commerce app with a multi-table database. Java and XML, and SQLite were critical to deliver a woven user experience.
 
 ---

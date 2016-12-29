@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2016-11
-img: ToDo
+date: 2016-12
+img: Sudoku
 alt: image-alt
-project-date: October 2016
+project-date: December 2016
 client: General Assembly
 category: Android Development
-description: Created an Android app using Java, SQLite, and XML to store tasks that allow a user to keep their minds more organized. Find the repo <a href="https://sellfy.com/p/8Q9P/jV3VZ/">here</a>.
+description: A sudoku app that features a multiplayer race mode. This app is heavy on logic but also implements Google Play Games Services. Find the repo <a href="https://github.com/ScottLindley/Su-you-think-you-can-Doku">here</a>.
 ---

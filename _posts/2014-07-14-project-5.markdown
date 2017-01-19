@@ -5,5 +5,5 @@ modal-id: 5
 date: 2017-01-17
 img: Zombie.png
 alt: Mobile Zombie
-description: Mobile Zombie tracks how much time you waste on your phone! Keeping tracks of both total time as well as how many times you "checked" your phone, all data is logged and easily viewed in a history. A running daily average provides a yearly projection at your current usage rate.<br>Find it on the Google Play Store <a href="https://play.google.com/apps/testing/com.scottlindley.mobliezombie">here</a>.
+description: Mobile Zombie tracks how much time you waste on your phone! Keeping track of both total time as well as how many times you "checked" your phone, all data is logged and easily viewed in a history. A running daily average provides a yearly projection at your current usage rate.<br>Find it on the Google Play Store <a href="https://play.google.com/apps/testing/com.scottlindley.mobliezombie">here</a>.
 ---
